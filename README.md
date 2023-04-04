@@ -1,0 +1,2 @@
+# chatgpt
+Lightweight openapi platform
