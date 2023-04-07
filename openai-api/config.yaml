@@ -1,0 +1,12 @@
+proxy:
+  url: "http://0.0.0.0:0000/send_message"
+  token: ""
+db:
+  user: ""
+  host: ""
+  port: 
+  password: ""
+  name: "openai"
+http:
+  host: 0.0.0.0
+  port: 9090
