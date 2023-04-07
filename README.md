@@ -29,6 +29,9 @@ Install using `go`...
           password: ""
           name: "openai"
     
+    # cd migrations/ && load sql
+    
+    # run main 
     go run main.go
 
 ## Frontend
